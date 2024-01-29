@@ -12,6 +12,7 @@
   "dependencies": {
     "@jyeontu/progress-bar": "^1.0.5",
     "cos-nodejs-sdk-v5": "^2.12.6",
+    "dotenv": "^16.4.1",
     "express": "^4.18.2"
   }
 }
